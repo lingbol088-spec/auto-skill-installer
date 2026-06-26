@@ -1,0 +1,11 @@
+{
+  "sources": [
+    {
+      "name": "openai-curated",
+      "repo": "openai/skills",
+      "path": "skills/.curated",
+      "ref": "main",
+      "tags": ["official", "curated"]
+    }
+  ]
+}
