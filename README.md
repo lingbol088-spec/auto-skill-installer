@@ -54,3 +54,9 @@ Restart Codex after installing new skills so they are auto-discovered.
 Other AI agents can reuse the same registry format and CLI by pointing the install destination at their own skills directory with `--dest`.
 
 其他 AI 智能体可以复用同样的 registry 格式和 CLI，并通过 `--dest` 指向自己的技能目录。
+
+可以的话可以赞赏一下吗喵
+<img width="828" height="1124" alt="cd4ea3258c3d4ce438903c06304fcb88" src="https://github.com/user-attachments/assets/5cc7152b-0362-4d83-bf37-f7677fb3a9bb" />
+
+<img width="1280" height="1919" alt="3c6592df7c4ba822d89f9038879748ae" src="https://github.com/user-attachments/assets/6d11d8ac-21a6-4cbc-82df-2fa190c3e3cd" />
+
